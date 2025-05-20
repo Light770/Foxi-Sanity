@@ -2,3 +2,6 @@ foxi-astro-theme/node_modules/*
 foxi-astro-theme/.vscode
 
 studio-foxi-sanity/node_modules/*
+
+archive
+archive/*
